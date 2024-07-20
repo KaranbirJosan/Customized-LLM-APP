@@ -1,4 +1,4 @@
-# Customized-LLM-APP
+# Customized-LLM-APP On EDM CAR PARTS
 
 Building a Retrieval-Augmented Generation (RAG) bot can significantly enhance the capabilities of a language model by incorporating external knowledge to generate more accurate and contextually relevant responses. This guide will walk you through creating a simple RAG bot using Gradio and the Hugging Face APIs.
 
